@@ -2,7 +2,7 @@ import {defineStore} from 'pinia'
 import {Account} from 'src/nostr/Account'
 
 const RELAYS = [
-  'wss://relay.snort.social',
+  'wss://relayable.org',
   'wss://relay.nostr.ch',
   'wss://nos.lol',
   'wss://nostr-pub.semisol.dev',
